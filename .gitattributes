@@ -1,0 +1,3 @@
+*.kt linguist-detectable=true
+*.kts linguist-detectable=true
+*.kotlin linguist-detectable=true
